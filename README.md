@@ -35,7 +35,8 @@ This guide shows how to create and use a custom HTML5 boilerplate snippet in Vis
 
 Open VS Code → Command Palette (Ctrl + Shift + P / Cmd + Shift + P) →
 Select Preferences: Configure User Snippets → choose html.json.
-```{
+```html
+{
   "HTML Boilerplate": {
     "prefix": "html5",
     "body": [
@@ -55,6 +56,7 @@ Select Preferences: Configure User Snippets → choose html.json.
     "description": "Custom HTML5 boilerplate"
   }
 }
+```
 
 📌 Step 2: Use the Snippet
 
@@ -62,7 +64,8 @@ Open a new .html file.
 Type html5 (your prefix).
 Press Tab → it will expand into:
 
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -73,6 +76,7 @@ Press Tab → it will expand into:
 <body>
 </body>
 </html>
+```
 
 ✅ Benefits
 Saves time writing boilerplate code.
