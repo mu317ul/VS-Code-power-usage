@@ -23,6 +23,7 @@ Link : https://gist.github.com/mu317ul/69a961b8c0dc4bca042e8ad1d70ee7c0
 ---
 
 🚀 Custom HTML Snippet in VS Code
+---
 
 ✨ What is a Snippet?
 A snippet in VS Code (or any code editor) is a shortcut that expands into a larger block of code automatically.
@@ -74,8 +75,8 @@ Press Tab → it will expand into:
 </html>
 
 ✅ Benefits
-
 Saves time writing boilerplate code.
 Ensures consistency across projects.
 Can be customized with CSS/JS links as needed.
+
 ---
