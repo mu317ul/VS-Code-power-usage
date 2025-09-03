@@ -1,5 +1,6 @@
 # VS-Code-power-usage
-Emmet in VS Code
+Emmet in VS Code 
+---
 📌 What is Emmet?
 
 Emmet is a productivity tool built into VS Code that lets you write HTML and CSS faster using shortcuts called abbreviations. Instead of typing full tags and properties, you type a short expression, hit Tab (or the Emmet expand key), and Emmet expands it into full code.
